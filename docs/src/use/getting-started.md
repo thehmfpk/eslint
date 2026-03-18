@@ -162,7 +162,6 @@ Before you begin, you must already have a `package.json` file. If you don't, mak
 For more information on the available CLI options, refer to [Command Line Interface](./command-line-interface).
 
 ---
-
 ## Next Steps
 
 - Learn about [advanced configuration](configure/) of ESLint.
